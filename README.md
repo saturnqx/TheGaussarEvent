@@ -2,7 +2,7 @@ This is a planet modpack. Expect bugs, and sometimes major changes.
 
 Feel free to edit and send a pull request to change some of the textures if you feel they are lacking/if you want to help me setup more biomes.
 
-REQUIRED MODS:
+# REQUIRED MODS:
 
 Kopernicus Planetary System Modifier
 
@@ -12,12 +12,12 @@ Kopernicus Expansion Continued: Common
 
 Instantiator
 
-Recommended Mods:
+# Recommended Mods:
 
 Scatterer
 
 Scatterer Sunflare
 
-Future Requirements:
+# Future Requirements:
 
 Kopernicus Expansion Continued: Comet Tails
