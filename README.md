@@ -23,7 +23,7 @@ Scatterer
 
 Scatterer Sunflare
 
-EVE (Enviornmental Visual Enhancements) [may become required in the future!]
+EVE (Enviornmental Visual Enhancements)
 
 # Future Requirements:
 
