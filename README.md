@@ -3,7 +3,7 @@ This is a planet modpack. Expect bugs, and sometimes major changes.
 Feel free to edit and send a pull request to change some of the textures if you feel they are lacking/if you want to help me setup more biomes.
 
 ## Currently known compatible KSP versions:
-### Tested on 1.12.3.3173 - Compatible with V1.0.0
+### Tested on 1.12.3 (3173)
 
 # Current modpack version: V1.0.0
 
