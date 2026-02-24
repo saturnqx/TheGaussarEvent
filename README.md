@@ -12,6 +12,8 @@ Kopernicus Expansion Continued: Common
 
 Kopernicus Expansion Continued: Comet Tails
 
+Instantiator
+
 Recommended Mods:
 
 Scatterer
