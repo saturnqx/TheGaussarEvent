@@ -10,8 +10,6 @@ Kopernicus Expansion Continued
 
 Kopernicus Expansion Continued: Common
 
-Kopernicus Expansion Continued: Comet Tails
-
 Instantiator
 
 Recommended Mods:
@@ -20,3 +18,6 @@ Scatterer
 
 Scatterer Sunflare
 
+Future Requirements:
+
+Kopernicus Expansion Continued: Comet Tails
