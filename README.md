@@ -6,6 +6,7 @@ Kopernicus Planetary System Modifier
 Kopernicus Expansion Continued
 Kopernicus Expansion Continued: Common
 Kopernicus Expansion Continued: Comet Tails
+
 Recommended Mods:
 Scatterer
 Scatterer Sunflare
