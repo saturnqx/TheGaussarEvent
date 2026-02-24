@@ -23,10 +23,12 @@ Scatterer
 
 Scatterer Sunflare
 
+EVE (Enviornmental Visual Enhancements) [may become required in the future!]
+
 # Future Requirements:
 
 Kopernicus Expansion Continued: Comet Tails
 
 
 # INSTALLATION
-It's quite easy. Download the latest release (or version of your choice), unzip it and drop the folder named "IronCoreAdditions" into your KSP GameData folder. Make sure you install the required mods too, or it may cause some unexpected crashes. Make sure to delete any other versions you have before installing a new one.
+It's quite easy. Download the latest release (or version of your choice), unzip it and drop the folder named "TheGaussarEvent" into your KSP GameData folder. Make sure you install the required mods too, or it may cause some unexpected crashes. Make sure to delete any other versions you have before installing a new one.
