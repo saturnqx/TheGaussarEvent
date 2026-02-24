@@ -26,3 +26,7 @@ Scatterer Sunflare
 # Future Requirements:
 
 Kopernicus Expansion Continued: Comet Tails
+
+
+# INSTALLATION
+It's quite easy. Download the latest release (or version of your choice), unzip it and drop the folder named "IronCoreAdditions" into your KSP GameData folder. Make sure you install the required mods too, or it may cause some unexpected crashes.
