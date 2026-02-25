@@ -11,7 +11,7 @@ Feel free to edit and send a pull request to change some of the textures if you 
 
 Kopernicus Planetary System Modifier - release-1.12.1-238
 
-Kopernicus Expansion - 0.2.0
+Kopernicus Expansion Continued-er - Beta9.1.1
 
 Kopernicus Expansion Continued: Common - release-1.7.1-5
 
