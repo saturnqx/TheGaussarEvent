@@ -15,6 +15,8 @@ Kopernicus Expansion - 0.2.0
 
 Kopernicus Expansion Continued: Common - release-1.7.1-5
 
+Kopernicus Expansion Continued: Comet Tails
+
 Instantiator - V1.0
 
 # Recommended Mods:
@@ -25,9 +27,11 @@ Scatterer Sunflare
 
 EVE (Environmental Visual Enhancements)
 
+Better Time Warp Continued
+
 # Future Requirements:
 
-Kopernicus Expansion Continued: Comet Tails
+None
 
 
 # INSTALLATION
