@@ -5,8 +5,6 @@ Feel free to edit and send a pull request to change some of the textures if you 
 ## Currently known compatible KSP versions:
 ### - 1.12.3 (3173)
 
-# Current modpack version: V1.1.0
-
 # REQUIRED MODS:
 
 Kopernicus Planetary System Modifier - release-1.12.1-238
