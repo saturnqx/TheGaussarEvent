@@ -8,8 +8,13 @@ Feel free to edit and send a pull request to change some of the textures if you 
 # REQUIRED MODS:
 
 Kopernicus Planetary System Modifier - release-1.12.1-238
+https://github.com/Kopernicus/Kopernicus
 
 Instantiator - V1.0
+https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR
+
+Singularity - 0.991
+https://github.com/LGhassen/Singularity
 
 # Recommended Mods:
 
