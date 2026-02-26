@@ -16,11 +16,13 @@ https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR
 Singularity - 0.991 :
 https://github.com/LGhassen/Singularity
 
-# Recommended Mods:
+# Supported Mods
 
 Scatterer
 
 Scatterer Sunflare
+
+# Recommended Mods:
 
 EVE (Environmental Visual Enhancements)
 
